@@ -1,3 +1,1 @@
-<style>
-  body { background: red !important; }
-</style>
+alert(1);
